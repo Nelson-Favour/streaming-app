@@ -1,0 +1,90 @@
+/* #c06ca4 pink
+#82accb blue
+#9e78ae purple */
+html{padding-top:10px}
+body{
+    background-color: #82accb;
+    margin-left: 0%;
+    padding-left: 0%;
+    margin-top: 5px;
+    display: inline;
+    
+}
+.sub-div{
+    display:inline-block;
+    position:;
+    width: 16.4%;
+    padding: 0%;
+    margin: 0px;
+
+}
+p{
+    display: inline-block;
+    padding: 0px;
+    margin: 0%;
+    color: #9e78ae;
+    font-size: 100%;
+}
+h2{
+    display: inline-block;
+    padding: 0px;
+    margin: 0%;
+    color: #c06ca4;
+}
+h3{
+    display: inline-block;
+    padding: 0px;
+    margin: 0%;
+    color: pink;
+}
+.image-div{
+    height: 150px;
+    width: 100%;
+}
+img{
+    height: 150px;
+    width: 100%;
+}
+.main-div{
+    padding:2px;
+    margin: 2px;
+    display: inline-block;
+    flex-direction:row ;
+    width: 88%;
+}
+/*header{
+    display: inline-flex;
+    float: left;
+    height: 100%;
+    margin-bottom: ;
+    width: 200px;
+
+}*/
+.nav-div{
+    display: inline-flex;
+    flex-direction: column;
+    float: left;    
+    height: 100%;
+    margin: 0;
+    margin-left: 2px;
+    padding:0px;
+    width:10%;
+    left: 0px;
+    background-color:  #82accb;
+    border-radius: 15px;
+}
+ul{
+    display: inline-flex;
+    flex-direction: column;
+    padding-left: 20%;
+    height:;
+}
+li{
+    margin-bottom: 10%;
+    color: transparent;
+}
+.side-column{
+    color: black;
+    font-size: 13px;
+    
+}
